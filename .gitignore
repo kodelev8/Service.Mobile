@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Prechart.Mobile/config/applicationhost.config
+/.vs/Prechart.Mobile/FileContentIndex/read.lock
+/.vs/Prechart.Mobile/FileContentIndex/db8fd094-7a0b-4b42-bec1-2804efbf1db6.vsidx
+/.vs/Prechart.Mobile/FileContentIndex/c1c5a5d0-9261-49d8-aa28-ad9130b3a6c2.vsidx
+/.vs/Prechart.Mobile/FileContentIndex/7fb8a6d5-7a93-4322-bc00-2f13224496a0.vsidx
+/.vs/Prechart.Mobile/FileContentIndex/4b64f373-f7fd-4ab0-8fb8-e6270bfc9576.vsidx
+/.vs/ProjectSettings.json
+/.vs/Prechart.Mobile/v17/Browse.VC.opendb
+/.vs/Prechart.Mobile/v17/Browse.VC.db-wal
+/.vs/Prechart.Mobile/v17/Browse.VC.db-shm
+/.vs/Prechart.Mobile/v17/Browse.VC.db
+/.vs/Prechart.Mobile/v17/.wsuo
+/.vs/Prechart.Mobile/v17/.suo
+/.vs/CMakeWorkspaceSettings.json
+/.vs/slnx.sqlite
+/.vs/Prechart.Mobile/FileContentIndex/d36771f8-e9c1-47ea-a395-700f80fbc305.vsidx
+/.vs/Prechart.Mobile/FileContentIndex/70b53a09-8b02-4ce7-8c89-2a70e1bb971e.vsidx
+/.vs/Prechart.Mobile/FileContentIndex/ee6c1f20-752a-4eb1-a86b-d4fe7893e3bf.vsidx
+*.vsidx

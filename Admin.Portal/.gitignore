@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite-journal
+/.vs/PrechartMobile/FileContentIndex/9424c93b-1b0f-4526-be9d-fc58e98d1ee3.vsidx
+/.vs/PrechartMobile/FileContentIndex/3d5964ee-a3e0-46bf-bc27-0ee9b6c3eff4.vsidx
+/.vs/PrechartMobile/FileContentIndex/82803589-60e5-4ea5-a890-cd76b387425d.vsidx
+/.vs/PrechartMobile/v17/workspaceFileList.bin
+/.vs/PrechartMobile/FileContentIndex/93a514ec-56de-4f17-81d4-0fee6a44a488.vsidx
+/.vs/PrechartMobile/FileContentIndex/4a4b867a-daae-4adc-b873-647915a88f87.vsidx
+/.dart_tool
+#/build
+/build/app/outputs/
+/build/app/tmp/
+/build/app/intermediates/
+/build/app/kotlin/
+/android/.gradlebuild/
+
+/android/.gradle/
+/.idea/
+/.vs/
+
